@@ -4,3 +4,5 @@ git add
 git commit "add thue first file"
 git push -u oringin master
 git push -setup
+
+Please dont delete this file, you just have to push this file.
