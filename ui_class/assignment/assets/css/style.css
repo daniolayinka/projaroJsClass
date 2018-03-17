@@ -1,0 +1,125 @@
+body{
+	color:#3b3b3c;
+	font-family: arial,sans-serif;
+	font-size: 13px;
+}
+
+.container {
+	width: auto;
+	float: right;
+	/*padding-left: 30px;*/
+	margin-right: 30px;
+}
+
+#navcon {
+	width: 100%;
+	font-size: 13px
+}
+
+
+
+#navcon ul {
+	list-style: none;
+	vertical-align: middle !important;
+	/*max-height: 32px !important;*/
+
+}
+
+#navcon li {
+	display: inline;
+	padding-right: 10px;
+	
+	/*display: block;*/
+}
+
+#navcon a {
+	text-decoration: none;
+	color: #3b3b3c;
+}
+
+.da {
+	max-width: 35px;
+	max-height: 35px;
+}
+
+.centdiv a {
+	width: 100%;
+	font-size: 13px;
+	text-decoration: none;
+	margin: auto;
+}
+
+.mainimg {
+	margin: auto;
+	width: 272px;
+	height: 92px;
+	padding-top: 200px;
+}
+
+input[type=text] {
+	width: 48%;
+	position: relative;	
+	border: 1px solid #ccc;
+	border-radius: 1px;
+	box-sizing: border-box;
+	margin: 20px 26% 20px 26% ;
+	display: inline-block;
+	padding: 17px 0px 10px 17px;
+	background-image: url('../assets/images/mic.png');
+	background-position: 10px 10px;
+	background-repeat: no-repeat;
+}
+
+.btndiv {
+	margin-left: 38%;
+	margin-right: 35%;
+	margin-bottom: 20px;
+	position: relative;
+	/*margin: auto;
+*/
+}
+
+button {
+	/*width: 15%x;*/
+	background-color: #f2f2f2;
+	border-radius: 1px;
+	cursor: pointer;
+	padding: 10px 10px 10px 10px;
+	margin: 0px 2px 0px 2px;
+	border: 1px solid white;
+	font-weight: bold;
+	color: #757575;
+
+}
+
+button:hover {
+	border: 1px solid #ccc;
+	color: black;
+}
+
+.offered {
+	text-align: center;
+	margin: 0px 25% 40px 29%;
+}
+
+#main-footer a p {
+	/*padding: 20px 20px;
+	margin-top: 10px;*/
+	
+	background-color: rgb(239, 239, 238);
+	text-decoration: none;
+	color: #3b3b3c;
+	font-size: 15px;
+}
+
+.nig{
+	border-top: 1px solid rgb(212, 212, 212);
+	padding: 2px 20px 2px 20px;
+}
+
+.spc  {
+
+	border-top: 1px solid rgb(212, 212, 212);
+	padding: 2px 20px 2px 20px;
+
+}
