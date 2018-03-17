@@ -1,0 +1,6 @@
+create a file in your project folder
+Open the shell
+git add
+git commit "add thue first file"
+git push -u oringin master
+git push -setup
